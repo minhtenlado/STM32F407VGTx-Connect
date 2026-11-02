@@ -1,4 +1,6 @@
-# STM32F407 Wi-Fi & Bluetooth Development Board — 4-Layer PCB
+# STM32F407VGTx Connect — Wi-Fi & Bluetooth LE Development Board
+
+**4-Layer PCB | KiCad 10 | STM32F407 + STM32F103 + ESP32-C3**
 
 **Custom STM32 development board** based on the **STM32F407VGTx (ARM Cortex-M4)**, designed in **KiCad 10** with an **STM32F103CBTx onboard debug-probe circuit**, **USB Type-C**, **ESP32-C3 Wi-Fi/Bluetooth LE**, a **3.3 V / 3 A buck regulator**, and GPIO expansion headers.
 
@@ -25,6 +27,10 @@ Hình ảnh bên dưới được xuất từ **PCB KiCad của dự án**. Nh�
 ### Phối cảnh 3D
 
 [![STM32F407 Wi-Fi/BLE — perspective 3D render](Images/board_3D%282%29.png)](Images/board_3D%282%29.png)
+
+### Hình 3D bổ sung
+
+[![STM32F407 Wi-Fi/BLE — additional 3D render](Images/board_3D%283%29.png)](Images/board_3D%283%29.png)
 
 > Các ảnh 3D là **render từ thiết kế PCB**, không phải ảnh của sản phẩm đã gia công hoặc lắp ráp.
 
@@ -199,6 +205,7 @@ STM32F407VGTx_wifi/
 ├── Images/
 │   ├── board_3D(1).png              # 3D top view
 │   ├── board_3D(2).png              # 3D isometric view
+│   ├── board_3D(3).png              # 3D supplementary view
 │   ├── F_cu.png                     # Front copper
 │   ├── in1.png                      # Inner copper layer 1
 │   ├── in2.png                      # Inner copper layer 2
@@ -254,7 +261,7 @@ STM32F407VGTx_wifi/
 
 - [x] Có project KiCad 10 và schematic đầy đủ.
 - [x] Có PCB **4 lớp đồng** `F.Cu`, `In1.Cu`, `In2.Cu`, `B.Cu`.
-- [x] Có hai ảnh 3D, bốn ảnh lớp đồng, ảnh tổng hợp và footprint.
+- [x] Có ba ảnh 3D, bốn ảnh lớp đồng, ảnh tổng hợp và footprint.
 - [x] Có tập tin Gerber, drill, BOM, component positions và IPC netlist.
 - [x] Có thiết kế STM32F407VGTx, STM32F103CBTx, ESP32-C3 và nguồn AP63300WU-7.
 - [x] Có IC USBLC6-2SC6 bảo vệ ESD ở đường USB.
@@ -280,5 +287,3 @@ STM32F407VGTx_wifi/
 **Designed by Phan Huynh Van Do** · **Hardware Rev 1.0** · **2026**
 
 *STM32F407 Wi-Fi & Bluetooth Development Board — integrated debug, wireless connectivity and flexible embedded development.*
-#   S T M 3 2 F 4 0 7 V G T x - C o n n e c t  
- 
