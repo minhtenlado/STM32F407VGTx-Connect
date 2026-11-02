@@ -24,7 +24,7 @@
 
 ### Hai góc nhìn 3D bổ sung
 
-| 3D View 01 — Top View | 3D View 02 — Perspective View |
+| 3D View 01 | 3D View 02|
 | :---: | :---: |
 | [![STM32F407 Connect — top 3D view](Images/board_3D%282%29.png)](Images/board_3D%282%29.png) | [![STM32F407 Connect — additional 3D perspective](Images/board_3D%283%29.png)](Images/board_3D%283%29.png) |
 
