@@ -20,13 +20,13 @@
 
 ### Tổng quan bo mạch
 
-[![STM32F407 Connect — 3D PCB overview](Images/board_3D%282%29.png)](Images/board_3D%282%29.png)
+[![STM32F407 Connect — 3D PCB overview](Images/board_3D%281%29.png)](Images/board_3D%281%29.png)
 
 ### Hai góc nhìn 3D bổ sung
 
 | 3D View 01 — Top View | 3D View 02 — Perspective View |
 | :---: | :---: |
-| [![STM32F407 Connect — top 3D view](Images/board_3D%281%29.png)](Images/board_3D%281%29.png) | [![STM32F407 Connect — additional 3D perspective](Images/board_3D%283%29.png)](Images/board_3D%283%29.png) |
+| [![STM32F407 Connect — top 3D view](Images/board_3D%282%29.png)](Images/board_3D%282%29.png) | [![STM32F407 Connect — additional 3D perspective](Images/board_3D%283%29.png)](Images/board_3D%283%29.png) |
 
 > **Lưu ý:** Cả ba ảnh là bản dựng 3D từ KiCad, chưa phải ảnh bo mạch đã gia công hoặc lắp ráp. Nhấn vào từng ảnh để mở bản gốc.
 
