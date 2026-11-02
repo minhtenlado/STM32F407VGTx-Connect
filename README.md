@@ -18,21 +18,17 @@
 
 ## 1. PCB 3D Preview
 
-Hình ảnh bên dưới được xuất từ **PCB KiCad của dự án**. Nhấn vào ảnh để mở bản gốc độ phân giải cao.
-
 ### Tổng quan bo mạch
 
-[![STM32F407 Wi-Fi/BLE — top 3D render](Images/board_3D%281%29.png)](Images/board_3D%281%29.png)
+[![STM32F407 Connect — 3D PCB overview](Images/board_3D%282%29.png)](Images/board_3D%282%29.png)
 
-### Phối cảnh 3D
+### Hai góc nhìn 3D bổ sung
 
-[![STM32F407 Wi-Fi/BLE — perspective 3D render](Images/board_3D%282%29.png)](Images/board_3D%282%29.png)
+| 3D View 01 — Top View | 3D View 02 — Perspective View |
+| :---: | :---: |
+| [![STM32F407 Connect — top 3D view](Images/board_3D%281%29.png)](Images/board_3D%281%29.png) | [![STM32F407 Connect — additional 3D perspective](Images/board_3D%283%29.png)](Images/board_3D%283%29.png) |
 
-### Hình 3D bổ sung
-
-[![STM32F407 Wi-Fi/BLE — additional 3D render](Images/board_3D%283%29.png)](Images/board_3D%283%29.png)
-
-> Các ảnh 3D là **render từ thiết kế PCB**, không phải ảnh của sản phẩm đã gia công hoặc lắp ráp.
+> **Lưu ý:** Cả ba ảnh là bản dựng 3D từ KiCad, chưa phải ảnh bo mạch đã gia công hoặc lắp ráp. Nhấn vào từng ảnh để mở bản gốc.
 
 ## 2. PCB Layout — 4 Copper Layers
 
